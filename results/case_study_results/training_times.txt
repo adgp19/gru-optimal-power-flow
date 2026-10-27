@@ -1,0 +1,12 @@
+=== Case Study 1: Impact of Data Size ===
+  20% Data: 70.02 seconds (MSE: 0.9811)
+  50% Data: 172.99 seconds (MSE: 0.7521)
+  80% Data: 266.47 seconds (MSE: 0.8327)
+
+=== Case Study 2: Impact of Network Depth ===
+  1 Layers: 62.81 seconds (MSE: 0.7123)
+  3 Layers: 257.97 seconds (MSE: 0.7515)
+  5 Layers: 433.14 seconds (MSE: 0.7465)
+
+=== Case Study 3: Convergence ===
+  1000 Epochs: 312.33 seconds (Final Loss: 0.0935)
